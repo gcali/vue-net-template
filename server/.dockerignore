@@ -1,0 +1,4 @@
+**/bin/
+**/obj/
+Dockerfile
+./refresh-docker.sh

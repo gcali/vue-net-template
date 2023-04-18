@@ -1,0 +1,9 @@
+.mobile-unsafe {
+    @include small-screen {
+        display: none !important;
+    }
+}
+.clickable {
+    cursor: pointer;
+    user-select: none;
+}
